@@ -1,4 +1,4 @@
-# Test
+# Hypixel Api Lookup Bot!!!
 ## Test
 ### Test
 **test**
